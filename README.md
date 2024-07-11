@@ -1,6 +1,6 @@
 ### Load Website Image From S3 bucket
 
-###### - Package Installation
+###### - Package Installation 
 .
 ```sh
 # yum install httpd -y
